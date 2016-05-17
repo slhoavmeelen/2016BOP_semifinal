@@ -1,6 +1,8 @@
 # 2016BOP_semifinal
 
-A mess of code of team:FDU_Beginners in 2016_BOP_Semifinal....
+A mess of code in 2016_BOP_Semifinal....
+
+队名：FDU_Beginners 成员们 陈楷予(Me)，董依菡，俞博远
 
 我们写的Java 因为其他都不怎么会。
 
